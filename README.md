@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aryan
 - 👀 I’m interested in Python development and Cybersecurity 
 - 🌱 I’m currently exploring Backend develpment and Networking
- How to reach me: [LinkedIna](https://www.linkedin.com/in/aryan-mantoo-02726422b/).
+- 📫How to reach me: [LinkedIn](https://www.linkedin.com/in/aryan-mantoo-02726422b/).
 
 <!---
 aryanmantoo/aryanmantoAAAAo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
