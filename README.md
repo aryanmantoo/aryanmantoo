@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aryanmantoo
 - 👀 I’m interested in Python development and Cybersecurity 
 - 🌱 I’m currently learning Networking and Backend Development
-- 📫 How to reach me E-mail-aryanmantoo43@gmail.com
+- 📫 How to reach me aryanmantoo43@gmail.com
 
 <!---
 aryanmantoo/aryanmantoAAAAo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
